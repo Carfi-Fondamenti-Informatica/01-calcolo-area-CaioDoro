@@ -14,10 +14,10 @@ cin >> a >> b >> c;
     Arettangolo = a * b;
     Atrapezio = ((a + b) * c) / 2;
 
-    cout << " " << Atriangolo << endl;
-    cout << " " << Aquadrato << endl;
-    cout << " " << Arettangolo << endl;
-    cout << " " << Atrapezio << endl;
+    cout << Atriangolo << endl;
+    cout << Aquadrato << endl;
+    cout << Arettangolo << endl;
+    cout << Atrapezio << endl;
   
   return 0;
 
